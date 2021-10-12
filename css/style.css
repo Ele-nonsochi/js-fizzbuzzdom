@@ -1,0 +1,21 @@
+/*
+backroung color :rgba(8,59,76,255)/#083b4c
+casella normale :#1389b2 , rgba(19,137,178,255)
+casella fizz : #0bd6a1 ; rgba(11,214,161,255)
+casella buzz : #ffd166 , rgba(255,209,102,255)
+casella fizzbuss : rgba(240,70,111,255) , #f0466f
+*/
+
+h1{
+    font-size: 80px;
+}
+
+.bg-page{
+    background-color: rgba(8,59,76,255);
+}
+
+
+
+
+
+
